@@ -11,8 +11,8 @@ I'm a **third-year Computer Science student at Simon Fraser University**. I have
 
 
 ## 📫 Connect with Me
-- **GitHub**: [github.com/mattsng](https://github.com/mattsng)
-- **LinkedIn**: [linkedin.com/in/mattsng](https://www.linkedin.com/in/mattsng)
+- **GitHub**: [https://github.com/mthwtsng](https://github.com/mthwtsng)
+- **LinkedIn**: [linkedin.com/in/mthwtsng](https://www.linkedin.com/in/mthwtsng/)
 - **Email**: [mthwtsng@gmail.com](mailto:mthwtsng@gmail.com)
 
 Thanks for stopping by! 🚀
